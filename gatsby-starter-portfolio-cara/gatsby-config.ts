@@ -13,7 +13,7 @@ const config: GatsbyConfig = {
     siteHeadline: `Tossibility's Portfolio`,
     siteUrl: `https://tossibility.github.io`,
     siteDescription: `Tossibility's Portfolio`,
-    siteImage: `/banner.jpg`,
+    siteImage: `/banner-black.png`,
     author: `@tossibility`,
   },
   trailingSlash: `never`,
